@@ -1,0 +1,23 @@
+# Dataset files
+train.csv
+test.csv
+sample_submission.csv
+
+# Saved model files
+*.joblib
+*.pkl
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
